@@ -1,5 +1,4 @@
 ---
-baseURL = https://wq13311283530.github.io
 title: "Blog"
 date: 2022-06-27T11:40:12+08:00
 draft: false
